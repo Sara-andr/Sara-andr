@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Sara-andr
-- 👀 I’m interested in data science
-- 🌱 I’m taking a fullstack data scientist course, where I am learning Power BI, SQL, Phyton and Advanced Excel. I have a Master's Degree in Computer Ccience too
+- 👀 I’m interested in Data Science
+- 🌱 I’m taking a fullstack data scientist course, where I am learning Power BI, SQL, Phyton and Advanced Excel. I have a Master's Degree in Computer Science too
 - 💞️ I’m looking to collaborate on data projects
 - 📫 Find me at: saraandradee@hotmail.com
 - 😄 Pronouns: She/Her
