@@ -1,12 +1,26 @@
 
-- 👋 Hi, I’m @Sara-andr
-- 👀 I’m interested in Data Science
-- 🌱 I’m taking a fullstack data scientist course, where I am learning Power BI, SQL, Phyton and Advanced Excel. I have a Master's Degree in Computer Science too
-- 💞️ I’m looking to collaborate on data projects
-- 📫 Find me at: saraandradee@hotmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Please give me some coffee to start my day :)
+Oiii eu sou a Sara Andrade, Mestra em Ciência da Computação, já tenho experiência em Estatística e análise de dados e no momento estou me especializando em Phyton, SQL, Power BI e Excel.
+</div>
+<div align="center">
+<a href="[https://github.com/Sara-andr">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sara-andr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sara-andr&layout=compact&langs_count=16&show_icons=true&theme=radical"/>
+
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:saraalvesandi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/sara-andrade-59402215a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 <!---
 Sara-andr/Sara-andr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
