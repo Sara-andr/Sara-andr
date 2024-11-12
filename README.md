@@ -1,5 +1,8 @@
 
-Oiii eu sou a Sara Andrade, Mestra em Ciência da Computação, já tenho experiência em Estatística e análise de dados e no momento estou me especializando em Phyton, SQL, Power BI e Excel.
+Oiii eu sou a Sara Andrade :) 
+
+✨ Mestra em Ciência da Computação, já tenho experiência em Estatística e análise de dados e no momento estou me especializando em Phyton, SQL, Power BI e Excel.
+
 </div>
 <div align="center">
 <a href="[https://github.com/Sara-andr">
