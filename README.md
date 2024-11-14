@@ -24,6 +24,8 @@ Oiii eu sou a Sara Andrade :)
   <a href="https://www.linkedin.com/in/sara-andrade-59402215a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![snake gif](https://github.com/Sara-andr/Sara-andr/blob/output/github-contribution-grid-snake.svg)
 <!---
 Sara-andr/Sara-andr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
