@@ -23,11 +23,6 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sara-andr&layout=compact&langs_count=16&show_icons=true&theme=radical"/>
 
 
-
-
- 
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sara-andr/Sara-andr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sara-andr/Sara-andr/output/github-contribution-grid-snake-dark.svg">
