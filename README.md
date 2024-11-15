@@ -34,13 +34,14 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sara-andr/Sara-andr/output/github-contribution-grid-snake.svg">
 </picture>
 
-Contact </h6></div> 
+<div style="text-align: center;" align="center">
+ Contact
   <div> 
   <a href = "mailto:saraalvesandi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sara-andrade-59402215a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  ##
+
 <!---
 Sara-andr/Sara-andr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
