@@ -7,23 +7,25 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sara</h1>
 ✨ Mestra em Ciência da Computação, tenho experiência em Estatística e análise de dados e no momento estou me especializando em Phyton, SQL, Power BI e Excel.
 
+ <h1 align="center">
 </div>
-<div align="center">
+
+<img align="right" height="540em" src="https://raw.githubusercontent.com/gist/Sara-andr/72a7694e885abc7824f3fd4c6e3b0d11/raw/b1f02725b93593e001ef8e8011663cb98d10316e/githubcard.svg"/>
+ <h1 align="center">
+</div>
+</div>
+<div align="left">
 <a href="[https://github.com/Sara-andr">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sara-andr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
+</div>
+ 
+  <div align="left">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sara-andr&layout=compact&langs_count=16&show_icons=true&theme=radical"/>
 
-</div>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
+
+ <div> 
   <a href = "mailto:saraalvesandi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sara-andrade-59402215a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -35,6 +37,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sara-andr/Sara-andr/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sara-andr/Sara-andr/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<h0 align="left">My Stack ~</h0>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
 <!---
 Sara-andr/Sara-andr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
