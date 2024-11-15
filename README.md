@@ -1,11 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi+I´m+Sara+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+%CB%99%E1%B5%95%CB%99+%E2%8A%B9++Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
 
-Oiii eu sou a Sara Andrade :) 
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sara</h1>
 ✨ Mestra em Ciência da Computação, tenho experiência em Estatística e análise de dados e no momento estou me especializando em Phyton, SQL, Power BI e Excel.
 
 </div>
