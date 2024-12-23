@@ -12,7 +12,7 @@ Estou em busca de uma oportunidade para desenvolver minha carreira, na qual eu p
 
  <h1 align="center">
 </div>
-
+<!---#
 <img align="right" height="540em" src="https://raw.githubusercontent.com/gist/Sara-andr/72a7694e885abc7824f3fd4c6e3b0d11/raw/b1f02725b93593e001ef8e8011663cb98d10316e/githubcard.svg"/>
  <h1 align="center">
 </div>
@@ -21,9 +21,9 @@ Estou em busca de uma oportunidade para desenvolver minha carreira, na qual eu p
 <a href="[https://github.com/Sara-andr">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sara-andr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
- 
+ <!---
   <div align="left">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sara-andr&layout=compact&langs_count=16&show_icons=true&theme=radical"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sara-andr&layout=compact&langs_count=16&show_icons=true&theme=radical"/>#
 
 
 <picture align="center">
