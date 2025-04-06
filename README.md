@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sara</h1>
-✨ Mestra em Ciência da Computação, Cientista de dados em formação, desenvolvendo habilidades em Phyton, SQL, Análise de dados, Visualização de dados, Limpeza de dados, Estatística, Machine Learning, Implantação de modelos, Scrum, Power BI, entre outros. 
+✨ Mestra em Ciência da Computação, Cientista de dados em formação, desenvolvendo habilidades em Phyton, SQL, Análise de dados, Visualização de dados, Limpeza de dados, Estatística, Machine Learning, Power BI, entre outros. 
 
 
 
